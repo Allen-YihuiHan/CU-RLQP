@@ -1,5 +1,5 @@
-from tqdm import tqdm
 from typing import List, Callable, Tuple
+from tqdm import tqdm
 import matplotlib.pyplot as plt
 import numpy as np
 import matplotlib
