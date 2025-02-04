@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 #include "global.cuh"
 
 __global__ void vecminus(double *vec, double *minvec, int size)
